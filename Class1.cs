@@ -24,6 +24,31 @@
 		}
 	}
 
+	public static class ListOps
+	{
+		public static void ShowElements <T> (IEnumerable<T> list)
+		{
+			if (list.Count() > 0)
+			{
+				foreach (var item in list)
+				{
+					Console.WriteLine(item);
+				}
+			}
+		}
+
+		public static void ShowElements <T> (ICollection<T> list)
+		{
+			if (list.Count() > 0)
+			{
+				foreach (var item in list)
+				{
+					Console.WriteLine(item);
+				}
+			}
+		}
+	}
+
 	public static class StringOps
 	{
 		public static string Combine(object ob1,  object ob2)
