@@ -1,0 +1,12 @@
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\bin\Debug\net7.0\Helper.deps.json
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\bin\Debug\net7.0\Helper.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\bin\Debug\net7.0\Helper.pdb
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.csproj.AssemblyReference.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.AssemblyInfo.cs
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\refint\Helper.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\Helper.pdb
+C:\Users\Khalaf Nasirov\Documents\Application Development\Libraries\MyLibrary\Helper\obj\Debug\net7.0\ref\Helper.dll
