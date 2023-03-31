@@ -29,7 +29,7 @@
   * `SeperateLine(30);` => ------------------------------
 ---
 ## Helper.ListOps class includes these methods
-  * `ShowElements(IEnumerable list) 
+  * `ShowElements(IEnumerable list)`
 
 ## To use it 
   `using static Helper.ListOps;`
