@@ -35,8 +35,8 @@
   `using static Helper.ListOps;`
 
 ## Examples
-   `1. int[] nums = new int[] {1, 2, 3};`
-   `2. ShowElements(nums);` => 1, 2, 3
+  * `1. int[] nums = new int[] {1, 2, 3};`
+  * `2. ShowElements(nums);` => 1, 2, 3
 ---
 ## Helper.StringOps class includes these methods
   * `Combine(params string[] paths);`
@@ -47,5 +47,5 @@
 
 ## Examples
   * `1. string hello = "Hello ";`
-    `2. string world = "World";`
-    `3. Combine(hello, world);` => Hello World
+  * `2. string world = "World";`
+  * `3. Combine(hello, world);` => Hello World
